@@ -18,7 +18,7 @@ How do we run this python code you might ask? and for this, we need to things. F
 
 Back to where i was... A code editor is just a text editor, and you can actually use any program that can write text, to write your python programs. Fx. you can use notepad, notepad++, visual studio code, pycharm, neovim, Sublime and even word (pls dont use word). There are also multiple online editors fx. [online-python.com](https://www.online-python.com/).
 
-You can choose whatever you want, but for now we will use the online editor mentioned [above](https://www.online-python.com/).
+You can choose whatever you want, but for now we will use the online editor.
 
 If you want to use a local text editor such as vscode or notepad, you also need to install your own python compiler, see the installation steps for this [Here](Installation_guide.md)
 
