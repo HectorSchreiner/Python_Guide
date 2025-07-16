@@ -13,11 +13,5 @@ A high-level programming language is for the most parts "easier" to use than low
 But it often comes with a cost of performance.\
 Performance is a term that descibres how fast a program can run. Fx: a game written in python might run at 60fps but a game written in C might run at 120fps (these are totally arbitrary and made up numbers).
 
-## Is python higher level than C?
-<details>
-<summary>Click to see answer</summary>
-<pre>
-  Python is high-level and C is low-level
-</pre>
-</details>
+
 
