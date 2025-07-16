@@ -36,3 +36,21 @@ Your output should look something like this,
 
 OBS. if it doesnt show this, congratulations! you have created your first error! Dont worry you will get a lot more of these.
 If you got an error make sure you started from an empty page, and double check your spelling.
+
+# TODO
+- In Readme explain goals
+- In chapter 1, explain what we will learn
+- How to debug? explain the error
+- Explain that copypasting shouldnt be done, and try to write something else than me (ex instead of hello, world write, hello, my name is)
+- Multiple prints
+- variable
+- print variables
+- Task with print and variables
+- if statements
+- Task with if statements, this is important
+- Loops
+- Task
+- Getting user input
+- Task
+- Writing a small project
+- Project as an exercise
