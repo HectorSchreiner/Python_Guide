@@ -20,6 +20,19 @@ Back to where i was... A code editor is just a text editor, and you can actually
 
 You can choose whatever you want, but for now we will use the online editor mentioned [above](https://www.online-python.com/).
 
-If you want to use a local text editor such as vscode or notepad, you also need to install your own python compiler, see the installation steps for this [Here](Here)
+If you want to use a local text editor such as vscode or notepad, you also need to install your own python compiler, see the installation steps for this [Here](Installation_guide.md)
 
+# 1.2 Writing our first program
+Go to the [website](https://www.online-python.com/). 
+1. Delete the preexisting code, so you have an empty document.
+2. Write the following:
+```
+print("Hello, world!)
+```
+3. Click on the green button that says run.
+4. Look at the output in the terminal down below.
+Your output should look something like this, 
+<img width="450" height="203" alt="image" src="https://github.com/user-attachments/assets/5f531827-7305-448d-93de-cef3891e7f37" />
 
+OBS. if it doesnt show this, congratulations! you have created your first error! Dont worry you will get a lot more of these.
+If you got an error make sure you started from an empty page, and double check your spelling.
